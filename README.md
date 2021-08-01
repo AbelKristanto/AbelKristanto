@@ -7,7 +7,7 @@ He known as a person who likes to gain more about data. Until now, he already ta
 - 💬 Ask me about **anything**
 
 ![AbelKristanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelKristanto&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelKristanto)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelKristanto&show_icons=true&theme=graywhite)
 
 
 <!--
