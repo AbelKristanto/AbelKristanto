@@ -3,8 +3,8 @@ He known as a person who likes to gain more about data. Until now, he already ta
 
 - 📫 How to reach me: [Here](https://www.linkedin.com/in/abelkristanto/)
 - 🤔 All of my projects are available: [Here](https://github.com/AbelKristanto?tab=repositories)
-- 💬 Ask me about **anything**
 - :point_right: My previous publications are available: [Here](https://scholar.google.co.id/citations?user=fELMVS4AAAAJ&hl=en)
+- 💬 Ask me about **anything**
 
 ![AbelKristanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelKristanto&show_icons=true&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelKristanto)
