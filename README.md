@@ -1,5 +1,8 @@
 # Hi there 👋 I'm Abel Kristanto
-## A passionate Data Scientist and Open Source contributor
+He known as a person who likes to gain more about new knowledge. Until now, he already take ownership about statistics, ergonomics, management, supply chain, data mining, 3D design, and fintech industry. If you have interested topics, he open herself to collaboration on scientific writing, product innovation, and challenging partnership.
+
+![AbelKristanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelKristanto&show_icons=true&theme=radical)
+
 
 <!--
 **AbelKristanto/AbelKristanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
