@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Abel Kristanto
-He known as a person who likes to gain more about new knowledge. Until now, he already take ownership about statistics, ergonomics, management, supply chain, data mining, 3D design, and fintech industry. If you have interested topics, he open herself to collaboration on scientific writing, product innovation, and challenging partnership.
+He known as a person who likes to gain more about new knowledge. Until now, he already take ownership about NLP, computer vision, AI, and more. If you have interested topics, he open herself to collaboration on scientific writing, product innovation, and challenging partnership.
 
 - 📫 How to reach me: [Here](https://www.linkedin.com/in/abelkristanto/)
 - 🤔 All of my projects are available: [Here](https://github.com/AbelKristanto?tab=repositories)
