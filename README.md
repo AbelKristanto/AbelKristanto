@@ -7,7 +7,9 @@ He known as a person who likes to gain more about new knowledge. Until now, he a
 - 🤔 All of my projects are available: [Here](https://github.com/AbelKristanto?tab=repositories)
 - 💬 Ask me about **anything**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbelKristanto&repo=github-readme-stats)](https://github.com/AbelKristanto/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbelKristanto&repo=github-readme-stats)](https://github.com/AbelKristanto/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelKristanto)](https://github.com/AbelKristanto/github-readme-stats)
+
 
 <!--
 **AbelKristanto/AbelKristanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
