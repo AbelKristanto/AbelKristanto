@@ -1,12 +1,11 @@
 # Hi there 👋 I'm Abel Kristanto
 He known as a person who likes to gain more about new knowledge. Until now, he already take ownership about statistics, ergonomics, management, supply chain, data mining, 3D design, and fintech industry. If you have interested topics, he open herself to collaboration on scientific writing, product innovation, and challenging partnership.
 
-![AbelKristanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelKristanto&show_icons=true&theme=graywhite)
-
 - 📫 How to reach me: [Here](https://www.linkedin.com/in/abelkristanto/)
 - 🤔 All of my projects are available: [Here](https://github.com/AbelKristanto?tab=repositories)
 - 💬 Ask me about **anything**
-
+- 
+![AbelKristanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelKristanto&show_icons=true&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelKristanto)
 
 
