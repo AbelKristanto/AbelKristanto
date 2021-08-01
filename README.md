@@ -2,6 +2,9 @@
 He known as a person who likes to gain more about new knowledge. Until now, he already take ownership about statistics, ergonomics, management, supply chain, data mining, 3D design, and fintech industry. If you have interested topics, he open herself to collaboration on scientific writing, product innovation, and challenging partnership.
 
 ![AbelKristanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelKristanto&show_icons=true&theme=radical)
+- 📫 How to reach me: [Here](https://www.linkedin.com/in/abelkristanto/)
+- ![image](https://user-images.githubusercontent.com/58840455/127773285-258d255f-d5b7-4e79-babd-40a378c11644.png) All of my projects are available: [Here](https://github.com/AbelKristanto?tab=repositories)
+- 💬 Ask me about **anything**
 
 
 <!--
